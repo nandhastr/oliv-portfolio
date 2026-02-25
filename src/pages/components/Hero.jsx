@@ -7,7 +7,7 @@ const Hero = () => {
 
         <div className="items-center justify-center text-center max-w-2xl mx-auto">
             <div className="bg-[#c9b99a]/20 backdrop-blur-lg inline-block px-4 py-2 rounded-full mb-4">
-            <h1 className="opacity-100 text-[#d4a574] text-sm ">
+            <h1 className="opacity-100 text-[#d4a574] text-[10px] md:text-sm ">
                 👋 halo, Selamat Datang Di Portfolio Saya
             </h1>
             </div>
