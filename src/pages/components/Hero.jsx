@@ -12,7 +12,7 @@ const Hero = () => {
             </h1>
             </div>
             <h1 className="text-[60px] font-bold text-[#fff] ">
-            Oliv Perdana Putri
+            Olivia Pradana Putri
             </h1>
             <p className="text-lg text-[#d4a574] mb-6">
             Siswa SMK & Pemimpin Pramuka

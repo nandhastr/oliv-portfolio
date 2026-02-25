@@ -22,7 +22,7 @@ const Footer = () => {
   return (
     <footer className="flex items-center justify-center bg-black text-[#c9b99a] p-2  border-t border-gray-700 relative">
       
-        <p className="text-[10px]">&copy; 2023 Design by Nanda. Oliv Perdana Putri Portfolio</p>
+        <p className="text-[10px]">&copy; 2023 Design by Nanda. Olivia Pradana Putri Portfolio</p>
 
       <button 
       onClick={() => scrollToTop()} 

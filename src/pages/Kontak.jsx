@@ -14,7 +14,7 @@ const Kontak = () => {
             </p>
             </div>
 
-                <div className="flex flex-col md:flex-row  justify-around gap-6 md:w-[50%]">
+                <div className="flex flex-col md:flex-row items-center  justify-around gap-6 md:w-[50%] mx-auto">
                     <Card icon="📧" title="Email" desc="hai@example.com" className="text-md md:text-sm"/>
                     <Card icon="📞" title="Telepon" desc="+628123456789" className="text-md md:text-sm" />
                     <Card icon="📍" title="Alamat" desc="Kp. Ciawitali Rt 03/10 Desa Gn. Picung Kec. Pamijahan Kab. Bogor" className="text-md md:text-[10px] text-center" />
