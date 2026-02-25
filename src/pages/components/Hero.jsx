@@ -25,13 +25,13 @@ const Hero = () => {
 
             <div className="flex justify-center gap-2">
                 <a
-            href="#contact"
+            href="#kontak"
             className="inline-block bg-[#d4a574] text-gray-700 px-6 py-3 rounded-full hover:bg-[#c9b99a] transition duration-300"
             >
             Hubungi Saya
             </a>
         <a
-    href="#learn-more"
+    href="#tentang"
     className="inline-block bg-[#d4a574]/20 backdrop-blur-lg border border-[#d4a574]/70 text-white px-6 py-3 rounded-full hover:bg-[#c9b99a]/70 transition duration-300"
     >
     Pelajari Lebih Lanjut

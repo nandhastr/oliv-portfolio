@@ -7,11 +7,11 @@ const About = () => {
         <div className="flex items-center justify-center bg-gray-700/20 backdrop-blur-lg rounded-xl p-6 relative">
           <div className="absolute rounded-full w-30 h-30 bg-[#d4a574]/40 blur-md right-0 top-0"></div>
           <div className="absolute rounded-full w-30 h-30 bg-[#c9b99a]/40 blur-md left-0 bottom-0"></div>
-          <div className="inline-block bg-[#c9b99a]/20 backdrop-blur-lg rounded-full p-6 border-[#c9b99a] border-2">
+          <div className="flex items-center justify-center bg-[#c9b99a]/20 backdrop-blur-lg rounded-full w-60 h-60 ">
             <img
-              src="/images/img-default.png"
+              src="/images/oliv.jpg"
               alt=""
-              className="w-40 h-40 md:w-60 md:h-60 "
+              className=" w-50 h-50 rounded-full object-cover "
             />
           </div>
           <div className="flex gap-4 text-[#c9b99a] justify-center items-center absolute bottom-[-3rem] md:bottom-4 right-4 border-[#c9b99a] border-2 px-4 py-2 rounded-xl bg-[#d4a574]/20 backdrop-blur-md">
